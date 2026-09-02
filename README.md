@@ -220,13 +220,7 @@ This project demonstrates the basics of:
 
 ## 📦 Requirements
 
-Create a `requirements.txt` file containing:
-
-```text
-streamlit
-```
-
-Then install the dependencies using:
+Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
